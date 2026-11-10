@@ -1,0 +1,1 @@
+Place reference photos here using each map node ID as filename, for example entrance.jpg, junction.jpg, openspace.jpg, studyarea.jpg, meetingroom.jpg. Use several viewpoints per node where possible; this first version uses one image per node. No reference photos were supplied with the project.

@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: indoor-navigation
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    envVars:
+      - key: YOLO_MODEL
+        value: ""
